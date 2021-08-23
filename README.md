@@ -5,18 +5,31 @@ Creating a table in GCP BigQuery data warehouse via uploading csv or importing f
 Initializing Google Cloud for Jupyter notebook
 
 ![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/162/datas/original.png)
+Table schema of the physical measurement dataset
 ![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/173/datas/original.png)
+Modify authentication settings to Big Query to avoid 403 permission denied
 ![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/174/datas/original.png)
+Providing Google OAuth2 for Jupyter notebook ML 1/2
 ![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/175/datas/original.png)
+Providing Google OAuth2 for Jupyter notebook ML 2/2
 ![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/184/datas/original.png)
+Overview of app engine (an instance deployed)
 ![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/339/datas/original.png)
+Downloading Google Cloud's SDK to local computer for app engine deployment
 ![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/340/datas/original.png)
+Deploying a Node.js application to app engine on the local CLI 1/2
 ![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/349/datas/original.png)
+Deploying a Node.js application to app engine on the local CLI 2/2
 ![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/185/datas/original.png)
+Web application with new and better URL (Heroku to appspot)
 ![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/398/datas/original.png)
+Cloud function trigger (REST API endpoint) for the ML model
 ![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/393/datas/original.png)
+Cloud function overview
 ![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/402/datas/original.png)
+REST API Endpoint enabled by GCP's cloud functions
 ![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/457/datas/original.png)
+Using deployed model to perform predictions on the cloud console command line
 
 Earlier this year I built a project named handicap$, which was a mock of an industry standard (sports) betting site, but our goal has always been to offer some very unique betting categories other than just which team will win a match. Back then, we used machine learning to predict the precise possibility of each country winning the next International Olympiad in Informatics (IOI) and which university is most likely going to win the next Putnam Competition.
 
