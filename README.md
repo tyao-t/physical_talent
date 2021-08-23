@@ -4,6 +4,20 @@ Creating a table in GCP BigQuery data warehouse via uploading csv or importing f
 ![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/162/datas/original.png) <br>
 Initializing Google Cloud for Jupyter notebook
 
+![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/162/datas/original.png)
+![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/173/datas/original.png)
+![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/174/datas/original.png)
+![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/175/datas/original.png)
+![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/184/datas/original.png)
+![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/339/datas/original.png)
+![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/340/datas/original.png)
+![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/349/datas/original.png)
+![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/185/datas/original.png)
+![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/398/datas/original.png)
+![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/393/datas/original.png)
+![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/402/datas/original.png)
+![image](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/633/457/datas/original.png)
+
 Earlier this year I built a project named handicap$, which was a mock of an industry standard (sports) betting site, but our goal has always been to offer some very unique betting categories other than just which team will win a match. Back then, we used machine learning to predict the precise possibility of each country winning the next International Olympiad in Informatics (IOI) and which university is most likely going to win the next Putnam Competition.
 
 This time, we want to build a betting category on players' placements in the NBA draft. Just as always, we wanted to opt for a quantitative approach instead of relying on experience. We wanted to answer questions such as: What is the likeliness of Player A selected as one of the first 40 picks, or which side has higher chances of winning this head-to-head matchup--Player B's placement versus Player C's placement +7.5, etc.? We also wondered, [what made Giannis Antetokounmpo an almost lottery draft pick back then when he was only playing in the B-league of Greece](http://www.draftexpress.com/gallery/GiannisAntetokounmpo/1392220947.jpg)? 
