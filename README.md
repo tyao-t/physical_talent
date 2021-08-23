@@ -1,22 +1,8 @@
-![image](https://user-images.githubusercontent.com/51895713/130388864-7d9bac03-284d-4df8-9074-5e0dc5962af3.png)
+![image](https://user-images.githubusercontent.com/51895713/130388864-7d9bac03-284d-4df8-9074-5e0dc5962af3.png) <br>
 Creating a table in GCP BigQuery data warehouse via uploading csv or importing from google sheets
 
-![image](https://user-images.githubusercontent.com/51895713/130388921-74731ff2-1896-42a9-9836-27606b6d7bca.png)
+![image](https://user-images.githubusercontent.com/51895713/130388921-74731ff2-1896-42a9-9836-27606b6d7bca.png) <br>
 Initializing Google Cloud for Jupyter notebook
-
-![image](https://user-images.githubusercontent.com/51895713/130388942-fe6b1933-d47b-4d8c-9617-5f176ef7b2b0.png)
-![image](https://user-images.githubusercontent.com/51895713/130388951-ab14bdd2-8833-493e-9c0c-60c9c5ca6200.png)
-![image](https://user-images.githubusercontent.com/51895713/130389034-5c17bd60-744b-465d-87c0-7cb882b69151.png)
-![image](https://user-images.githubusercontent.com/51895713/130389051-b7b6ae55-0485-41ef-9802-d655159e6276.png)
-![image](https://user-images.githubusercontent.com/51895713/130389067-b2be537b-0d99-4c2f-bdbc-f280d90f24ba.png)
-![image](https://user-images.githubusercontent.com/51895713/130389079-c9c2e898-60fe-473a-80ee-2768e91ac297.png)
-![image](https://user-images.githubusercontent.com/51895713/130389084-80761d5b-53b4-4c8a-b5bc-878ad4356cb7.png)
-![image](https://user-images.githubusercontent.com/51895713/130389088-63ec9ff6-65d7-4a9e-a6f1-ecc72c89ad8a.png)
-![image](https://user-images.githubusercontent.com/51895713/130389099-be40312f-35da-4f17-8b19-af874533d964.png)
-![image](https://user-images.githubusercontent.com/51895713/130389104-a862ca16-c764-4fd3-908c-e973e4c234e4.png)
-![image](https://user-images.githubusercontent.com/51895713/130389110-7af73905-f0e0-47a8-bd62-07c0f5bd2627.png)
-![image](https://user-images.githubusercontent.com/51895713/130389119-38b2079e-07c0-4575-acb7-7a34c9f57f40.png)
-![image](https://user-images.githubusercontent.com/51895713/130389123-5ca7bde3-4932-4771-91fe-6da5986a6658.png)
 
 Earlier this year I built a project named handicap$, which was a mock of an industry standard (sports) betting site, but our goal has always been to offer some very unique betting categories other than just which team will win a match. Back then, we used machine learning to predict the precise possibility of each country winning the next International Olympiad in Informatics (IOI) and which university is most likely going to win the next Putnam Competition.
 
