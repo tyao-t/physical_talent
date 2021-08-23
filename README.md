@@ -4,6 +4,20 @@ Creating a table in GCP BigQuery data warehouse via uploading csv or importing f
 ![image](https://user-images.githubusercontent.com/51895713/130388921-74731ff2-1896-42a9-9836-27606b6d7bca.png) <br>
 Initializing Google Cloud for Jupyter notebook
 
+![image](https://user-images.githubusercontent.com/51895713/130388921-74731ff2-1896-42a9-9836-27606b6d7bca.png) <br>
+![image](https://user-images.githubusercontent.com/51895713/130388921-74731ff2-1896-42a9-9836-27606b6d7bca.png)
+![image](https://user-images.githubusercontent.com/51895713/130388921-74731ff2-1896-42a9-9836-27606b6d7bca.png)
+![image](https://user-images.githubusercontent.com/51895713/130388921-74731ff2-1896-42a9-9836-27606b6d7bca.png)
+![image](https://user-images.githubusercontent.com/51895713/130388921-74731ff2-1896-42a9-9836-27606b6d7bca.png)
+![image](https://user-images.githubusercontent.com/51895713/130388921-74731ff2-1896-42a9-9836-27606b6d7bca.png)
+![image](https://user-images.githubusercontent.com/51895713/130388921-74731ff2-1896-42a9-9836-27606b6d7bca.png)
+![image](https://user-images.githubusercontent.com/51895713/130388921-74731ff2-1896-42a9-9836-27606b6d7bca.png)
+![image](https://user-images.githubusercontent.com/51895713/130388921-74731ff2-1896-42a9-9836-27606b6d7bca.png)
+![image](https://user-images.githubusercontent.com/51895713/130388921-74731ff2-1896-42a9-9836-27606b6d7bca.png)
+![image](https://user-images.githubusercontent.com/51895713/130388921-74731ff2-1896-42a9-9836-27606b6d7bca.png)
+![image](https://user-images.githubusercontent.com/51895713/130388921-74731ff2-1896-42a9-9836-27606b6d7bca.png)
+![image](https://user-images.githubusercontent.com/51895713/130388921-74731ff2-1896-42a9-9836-27606b6d7bca.png)
+
 Earlier this year I built a project named handicap$, which was a mock of an industry standard (sports) betting site, but our goal has always been to offer some very unique betting categories other than just which team will win a match. Back then, we used machine learning to predict the precise possibility of each country winning the next International Olympiad in Informatics (IOI) and which university is most likely going to win the next Putnam Competition.
 
 This time, we want to build a betting category on players' placements in the NBA draft. Just as always, we wanted to opt for a quantitative approach instead of relying on experience. We wanted to answer questions such as: What is the likeliness of Player A selected as one of the first 40 picks, or which side has higher chances of winning this head-to-head matchup--Player B's placement versus Player C's placement +7.5, etc.? We also wondered, [what made Giannis Antetokounmpo an almost lottery draft pick back then when he was only playing in the B-league of Greece](http://www.draftexpress.com/gallery/GiannisAntetokounmpo/1392220947.jpg)? 
